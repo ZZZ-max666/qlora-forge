@@ -1,0 +1,104 @@
+{"id": "gen-001", "category": "math", "user": "80 乘以 49 等于多少？", "assistant": "80 × 49 = 3920。"}
+{"id": "gen-002", "category": "math", "user": "459 加 730 再减 34 等于多少？", "assistant": "459 + 730 - 34 = 1155。"}
+{"id": "gen-003", "category": "math", "user": "112 的 15% 是多少？", "assistant": "112 × 15% = 16.8。"}
+{"id": "gen-004", "category": "math", "user": "8 的 3 次方是多少？", "assistant": "8^3 = 512。"}
+{"id": "gen-005", "category": "math", "user": "先算 3×6，结果再加 23，等于多少？", "assistant": "3×6=18，18+23=41。"}
+{"id": "gen-006", "category": "math", "user": "97 乘以 26 等于多少？", "assistant": "97 × 26 = 2522。"}
+{"id": "gen-007", "category": "math", "user": "476 加 183 再减 36 等于多少？", "assistant": "476 + 183 - 36 = 623。"}
+{"id": "gen-008", "category": "math", "user": "55 的 20% 是多少？", "assistant": "55 × 20% = 11.0。"}
+{"id": "gen-009", "category": "math", "user": "16 的 9 次方是多少？", "assistant": "16^9 = 68719476736。"}
+{"id": "gen-010", "category": "math", "user": "先算 3×3，结果再加 74，等于多少？", "assistant": "3×3=9，9+74=83。"}
+{"id": "gen-011", "category": "math", "user": "27 乘以 31 等于多少？", "assistant": "27 × 31 = 837。"}
+{"id": "gen-012", "category": "math", "user": "581 加 576 再减 63 等于多少？", "assistant": "581 + 576 - 63 = 1094。"}
+{"id": "gen-013", "category": "math", "user": "171 的 20% 是多少？", "assistant": "171 × 20% = 34.2。"}
+{"id": "gen-014", "category": "math", "user": "7 的 11 次方是多少？", "assistant": "7^11 = 1977326743。"}
+{"id": "gen-015", "category": "math", "user": "先算 2×2，结果再加 15，等于多少？", "assistant": "2×2=4，4+15=19。"}
+{"id": "gen-016", "category": "math", "user": "62 乘以 17 等于多少？", "assistant": "62 × 17 = 1054。"}
+{"id": "gen-017", "category": "math", "user": "329 加 724 再减 66 等于多少？", "assistant": "329 + 724 - 66 = 987。"}
+{"id": "gen-018", "category": "math", "user": "42 的 12% 是多少？", "assistant": "42 × 12% = 5.04。"}
+{"id": "gen-019", "category": "math", "user": "15 的 11 次方是多少？", "assistant": "15^11 = 8649755859375。"}
+{"id": "gen-020", "category": "math", "user": "先算 8×2，结果再加 42，等于多少？", "assistant": "8×2=16，16+42=58。"}
+{"id": "gen-021", "category": "math", "user": "62 乘以 43 等于多少？", "assistant": "62 × 43 = 2666。"}
+{"id": "gen-022", "category": "math", "user": "184 加 774 再减 34 等于多少？", "assistant": "184 + 774 - 34 = 924。"}
+{"id": "gen-023", "category": "math", "user": "44 的 15% 是多少？", "assistant": "44 × 15% = 6.6。"}
+{"id": "gen-024", "category": "math", "user": "13 的 5 次方是多少？", "assistant": "13^5 = 371293。"}
+{"id": "gen-025", "category": "math", "user": "先算 5×2，结果再加 88，等于多少？", "assistant": "5×2=10，10+88=98。"}
+{"id": "gen-026", "category": "math", "user": "71 乘以 11 等于多少？", "assistant": "71 × 11 = 781。"}
+{"id": "gen-027", "category": "math", "user": "588 加 768 再减 85 等于多少？", "assistant": "588 + 768 - 85 = 1271。"}
+{"id": "gen-028", "category": "math", "user": "198 的 15% 是多少？", "assistant": "198 × 15% = 29.7。"}
+{"id": "gen-029", "category": "math", "user": "19 的 5 次方是多少？", "assistant": "19^5 = 2476099。"}
+{"id": "gen-030", "category": "math", "user": "先算 3×3，结果再加 52，等于多少？", "assistant": "3×3=9，9+52=61。"}
+{"id": "gen-031", "category": "translation", "user": "请把「订单已发货」翻译成英文。", "assistant": "\"The order has been shipped.\""}
+{"id": "gen-032", "category": "translation", "user": "将「Thank you for your patience」译成中文。", "assistant": "「感谢您的耐心等待」。"}
+{"id": "gen-033", "category": "translation", "user": "「退款将原路返回」用英文怎么说？", "assistant": "The refund will be returned to the original payment method."}
+{"id": "gen-034", "category": "translation", "user": "Translate: 请提供您的订单号。", "assistant": "Please provide your order number."}
+{"id": "gen-035", "category": "translation", "user": "「价保」用英文如何表达？", "assistant": "Price protection（价格保护）。"}
+{"id": "gen-036", "category": "translation", "user": "将「上门取件」翻译成英文。", "assistant": "Door-to-door pickup."}
+{"id": "gen-037", "category": "translation", "user": "「I'm afraid the item is out of stock」译成中文。", "assistant": "「很抱歉，该商品暂时缺货」。"}
+{"id": "gen-038", "category": "translation", "user": "「电子发票」的英文是什么？", "assistant": "Electronic invoice (e-invoice)。"}
+{"id": "gen-039", "category": "translation", "user": "Translate: 非常理解您的心情。", "assistant": "I completely understand how you feel."}
+{"id": "gen-040", "category": "translation", "user": "「运费险」用英文怎么说？", "assistant": "Shipping insurance / freight insurance."}
+{"id": "gen-041", "category": "translation", "user": "将「包裹已到达转运中心」翻译成英文。", "assistant": "The parcel has arrived at the transit center."}
+{"id": "gen-042", "category": "translation", "user": "「Please keep the item and packaging intact」译成中文。", "assistant": "「请保持商品与包装完好」。"}
+{"id": "gen-043", "category": "translation", "user": "「审核通过」的英文表达？", "assistant": "The application has been approved. / Approved after review."}
+{"id": "gen-044", "category": "translation", "user": "Translate: 我们会在24小时内给您答复。", "assistant": "We will get back to you within 24 hours."}
+{"id": "gen-045", "category": "translation", "user": "「部分退款」用英文怎么说？", "assistant": "Partial refund."}
+{"id": "gen-046", "category": "translation", "user": "将「物流异常核查中」翻译成英文。", "assistant": "Logistics exception under investigation."}
+{"id": "gen-047", "category": "commonsense", "user": "一周有几天？", "assistant": "一周有7天。"}
+{"id": "gen-048", "category": "commonsense", "user": "水的沸点在一个标准大气压下是多少摄氏度？", "assistant": "在标准大气压下，水的沸点是100摄氏度。"}
+{"id": "gen-049", "category": "commonsense", "user": "中国的首都是哪个城市？", "assistant": "中国的首都是北京。"}
+{"id": "gen-050", "category": "commonsense", "user": "一年中天数最少的月份是哪个月？", "assistant": "平年的2月，只有28天（闰年为29天）。"}
+{"id": "gen-051", "category": "commonsense", "user": "光年是什么单位？", "assistant": "光年是长度单位，指光在真空中一年走过的距离，约9.46万亿公里。"}
+{"id": "gen-052", "category": "commonsense", "user": "人体最大的器官是什么？", "assistant": "皮肤是人体最大的器官。"}
+{"id": "gen-053", "category": "commonsense", "user": "《蒙娜丽莎》的作者是谁？", "assistant": "《蒙娜丽莎》由列奥纳多·达·芬奇创作。"}
+{"id": "gen-054", "category": "commonsense", "user": "地球自转一周大约需要多长时间？", "assistant": "约24小时，也就是一天。"}
+{"id": "gen-055", "category": "commonsense", "user": "哺乳动物中唯一会飞的是哪种？", "assistant": "蝙蝠。"}
+{"id": "gen-056", "category": "commonsense", "user": "HTTP状态码404表示什么？", "assistant": "404表示请求的资源未找到（Not Found）。"}
+{"id": "gen-057", "category": "commonsense", "user": "“囍”字通常用在什么场合？", "assistant": "传统婚庆场合，象征双喜临门。"}
+{"id": "gen-058", "category": "commonsense", "user": "二十四节气中春季的第一个节气是什么？", "assistant": "立春。"}
+{"id": "gen-059", "category": "commonsense", "user": "人民币的货币符号是什么？", "assistant": "人民币符号是「¥」，国际代码为CNY。"}
+{"id": "gen-060", "category": "commonsense", "user": "马拉松全程的标准距离是多少？", "assistant": "42.195公里。"}
+{"id": "gen-061", "category": "commonsense", "user": "声音在空气中传播速度大约是多少（15℃）？", "assistant": "约340米/秒。"}
+{"id": "gen-062", "category": "commonsense", "user": "太阳系中体积最大的行星是哪颗？", "assistant": "木星。"}
+{"id": "gen-063", "category": "commonsense", "user": "“CPU”指的是计算机的什么部件？", "assistant": "中央处理器（Central Processing Unit）。"}
+{"id": "gen-064", "category": "commonsense", "user": "《红楼梦》的作者是谁？", "assistant": "前八十回一般认为由曹雪芹所著，后四十回通常署名高鹗续。"}
+{"id": "gen-065", "category": "commonsense", "user": "为什么天空在晴天呈现蓝色？", "assistant": "因为空气分子对太阳光的瑞利散射，波长更短的蓝光被散射得更强。"}
+{"id": "gen-066", "category": "commonsense", "user": "1千瓦时的电能俗称是什么？", "assistant": "俗称1度电。"}
+{"id": "gen-067", "category": "logic", "user": "所有的玫瑰都是花，有些花很快凋谢。能否推出有些玫瑰很快凋谢？", "assistant": "不能。前提只保证玫瑰属于花，而“很快凋谢的花”未必包含玫瑰，推理不成立。"}
+{"id": "gen-068", "category": "logic", "user": "数列 2, 6, 12, 20, 30 的下一个数是什么？", "assistant": "42。相邻差为4,6,8,10，下一个差为12，30+12=42。"}
+{"id": "gen-069", "category": "logic", "user": "如果明天是雨天就不野餐，实际野餐了，能推出什么？", "assistant": "能推出明天不是雨天（逆否推理）。"}
+{"id": "gen-070", "category": "logic", "user": "甲比乙高，乙比丙高，谁最矮？", "assistant": "丙最矮。"}
+{"id": "gen-071", "category": "logic", "user": "5台机器5分钟生产5个零件，100台机器100分钟生产多少个？", "assistant": "2000个。每台机器每分钟产 5/(5×5)=0.2 个，100台×100分钟×0.2=2000个。"}
+{"id": "gen-072", "category": "logic", "user": "把“猫”“鱼”“船”分类：哪两个更像一类？", "assistant": "猫和鱼更像一类，它们都是动物；船是人造交通工具。"}
+{"id": "gen-073", "category": "logic", "user": "今天是星期三，90天后是星期几？", "assistant": "星期二。90 = 7×12 + 6，星期三再加6天即星期二。"}
+{"id": "gen-074", "category": "logic", "user": "三个开关对应三盏灯，只能进屋一次，怎么确定对应关系？", "assistant": "先开第一个开关几分钟后关掉，再开第二个，进屋：亮的是第二个；摸着热但不亮的是第一个；剩下的是第三个。"}
+{"id": "gen-075", "category": "logic", "user": "所有A是B，所有B是C，能推出什么？", "assistant": "可推出所有A是C（三段论传递）。"}
+{"id": "gen-076", "category": "logic", "user": "小明有8块糖，给小红一半再多1块，自己还剩几块？", "assistant": "8的一半是4，再多1块即给出5块，还剩3块。"}
+{"id": "gen-077", "category": "coding", "user": "用 Python 写一个函数，返回列表中的最大值（不用内置max）。", "assistant": "def my_max(nums):\n    m = nums[0]\n    for x in nums[1:]:\n        if x > m:\n            m = x\n    return m"}
+{"id": "gen-078", "category": "coding", "user": "Python 中 list 和 tuple 的区别是什么？", "assistant": "list 可变、用方括号；tuple 不可变、用圆括号，可作字典键，通常用于固定字段记录。"}
+{"id": "gen-079", "category": "coding", "user": "写一个 Python 表达式，生成 1~100 中所有 3 的倍数的列表。", "assistant": "[x for x in range(1, 101) if x % 3 == 0]"}
+{"id": "gen-080", "category": "coding", "user": "如何用 Python 读取一个 JSON 文件？", "assistant": "import json\nwith open('data.json', encoding='utf-8') as f:\n    obj = json.load(f)"}
+{"id": "gen-081", "category": "coding", "user": "Python 的 with 语句解决了什么问题？", "assistant": "with 通过上下文管理器保证资源（文件、锁、连接）在使用后自动释放，即使发生异常也不会泄漏。"}
+{"id": "gen-082", "category": "coding", "user": "写一个函数判断字符串是否为回文。", "assistant": "def is_palindrome(s):\n    return s == s[::-1]"}
+{"id": "gen-083", "category": "coding", "user": "字典的 get 方法和直接下标访问有什么区别？", "assistant": "d[key] 在键不存在时抛 KeyError；d.get(key) 返回 None（或指定的默认值），不抛异常。"}
+{"id": "gen-084", "category": "coding", "user": "用一行 Python 统计列表中每个元素出现的次数。", "assistant": "from collections import Counter\nCounter(lst)"}
+{"id": "gen-085", "category": "coding", "user": "什么是稳定排序？Python 的 sort 稳定吗？", "assistant": "稳定排序指相等元素的相对顺序在排序后保持不变。Python 的 list.sort 与 sorted 都是稳定的（TimSort）。"}
+{"id": "gen-086", "category": "coding", "user": "写一个生成器函数，依次产生斐波那契数列的前 n 项。", "assistant": "def fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        yield a\n        a, b = b, a + b"}
+{"id": "gen-087", "category": "coding", "user": "Python 中浅拷贝和深拷贝的区别？", "assistant": "浅拷贝（copy.copy 或切片）只复制最外层容器，内层对象仍共享引用；深拷贝（copy.deepcopy）递归复制全部层级，互不影响。"}
+{"id": "gen-088", "category": "coding", "user": "如何用标准库测量一段代码的运行耗时？", "assistant": "import time\nstart = time.perf_counter()\n...\nprint(time.perf_counter() - start)"}
+{"id": "gen-089", "category": "writing", "user": "用一句话概括“守株待兔”的寓意。", "assistant": "不能把偶然当成必然，妄想不劳而获终将一无所获。"}
+{"id": "gen-090", "category": "writing", "user": "为一家社区书店写一条不超过20字的开业标语。", "assistant": "转角有书，邻里有味——XX书店今日开业。"}
+{"id": "gen-091", "category": "writing", "user": "把下面内容压缩成一句话：「由于近期暴雨，仓库所在园区积水，部分订单发货延迟，预计48小时内恢复。」", "assistant": "暴雨致仓库积水，部分订单延迟发货，预计48小时内恢复。"}
+{"id": "gen-092", "category": "writing", "user": "从文本中抽取时间信息：「包裹已于3月12日14:30由顺丰揽收。」", "assistant": "揽收时间：3月12日14:30。"}
+{"id": "gen-093", "category": "writing", "user": "写一段话向客户解释为什么退款要1-7个工作日到账。", "assistant": "退款需经商家确认收货、平台审核、银行清算三个环节，各环节处理时间叠加后，资金通常在1-7个工作日内按原支付渠道退回，请您留意账户变动。"}
+{"id": "gen-094", "category": "writing", "user": "把「您这个情况我们也很无奈」改写得更专业。", "assistant": "非常理解您目前的困扰，我们已为您升级处理，会尽快给出明确方案。"}
+{"id": "gen-095", "category": "writing", "user": "为产品发布公告写一个标题：新增夜间模式。", "assistant": "焕新体验｜夜间模式正式上线，护眼更舒适"}
+{"id": "gen-096", "category": "writing", "user": "从「订单A退款39元，订单B退款59元」中抽取退款总额。", "assistant": "退款总额：98元。"}
+{"id": "gen-097", "category": "writing", "user": "用三个要点总结客服回复应遵循的原则。", "assistant": "1. 先共情，回应情绪再处理问题；2. 依据明确，引用可查证的政策条款；3. 给出下一步动作与时限。"}
+{"id": "gen-098", "category": "writing", "user": "把「这个价格已经很低了，不可能再便宜」说得更委婉。", "assistant": "当前价格已是活动力度较大的水平，不过我可以帮您留意是否有可用的优惠券。"}
+{"id": "gen-099", "category": "writing", "user": "写一条200字以内的道歉短信，场景：生日蛋糕配送迟到两小时。", "assistant": "尊敬的顾客，非常抱歉您的生日蛋糕迟到打乱了庆祝安排。我们已为您减免本次配送费用并补偿20元无门槛券，蛋糕由专人再次确认完好送达。感谢您的包容，期待下次为您准时服务。"}
+{"id": "gen-100", "category": "writing", "user": "将口语「我东西买了好几天了一直没动静」改写为工单描述。", "assistant": "用户反馈：订单签收前物流长期无更新，要求核查包裹状态。"}
+{"id": "gen-101", "category": "writing", "user": "抽取实体：「用户于11月3日购买戴森吹风机，实付2899元，11月5日申请退货。」", "assistant": "商品：戴森吹风机；下单日：11月3日；实付：2899元；退货申请日：11月5日。"}
+{"id": "gen-102", "category": "writing", "user": "用一句话解释什么是“量化”（模型语境）。", "assistant": "量化是把模型权重从高精度（如FP16）压缩到低位宽（如INT4/NF4），以显著降低显存占用与推理成本。"}
+{"id": "gen-103", "category": "writing", "user": "给新手写三条备份数据的建议。", "assistant": "1. 重要文件遵循3-2-1原则：3份副本、2种介质、1份异地；2. 开启自动化定时备份；3. 定期演练恢复流程，确认备份可用。"}
+{"id": "gen-104", "category": "writing", "user": "把「不是我们的问题，是你自己点错了」改为客户可接受的说法。", "assistant": "这边帮您复查了操作记录，可能是下单时选项与预期不一致，我来协助您调整或申请退换。"}

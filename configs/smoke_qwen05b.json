@@ -1,0 +1,36 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "model_profile": "qwen2.5-0.5b",
+  "method": "qlora",
+  "quant": {
+    "load_in_4bit": true,
+    "bnb_4bit_quant_type": "nf4",
+    "bnb_4bit_use_double_quant": true,
+    "bnb_4bit_compute_dtype": "bfloat16"
+  },
+  "lora": {
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.05,
+    "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
+  },
+  "train": {
+    "epochs": 1,
+    "batch_size": 2,
+    "grad_accum": 8,
+    "lr": 0.0002,
+    "lr_scheduler": "cosine",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.0,
+    "seq_len": 1024,
+    "gradient_checkpointing": true,
+    "logging_steps": 10,
+    "seed": 42
+  },
+  "data": {
+    "train": "outputs/dataset/train.jsonl",
+    "val": "outputs/dataset/val.jsonl"
+  },
+  "output_dir": "outputs/checkpoints/smoke",
+  "_note": "RTX 3060 6GB 冒烟配置：0.5B 基座 + NF4 双量化 + 梯度检查点，估算峰值显存约 1.5-2GB，真实可跑；用于验证全链路而非最终效果。"
+}

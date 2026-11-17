@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# 生成物目录：数据集/权重/日志均为流水线产物，不入库（保留 .gitkeep）
+outputs/*
+!outputs/.gitkeep
+
+# 训练/部署中间产物
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+runs/
+wandb/
+*.log
+
+# 临时与系统文件
+*.tmp
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,25 @@
+# ---------------------------------------------------------------------------
+# toneforge 依赖说明
+#
+# 【核心流水线（数据构建 / 显存估算 / 评估校验 / 单元测试）只依赖 Python 标准库，
+#   无需安装以下任何包即可运行：
+#     python scripts/build_dataset.py
+#     python scripts/vram_report.py
+#     python -m unittest discover -s tests -v
+# 】
+#
+# 以下依赖仅在 GPU 训练 / 合并 / 量化 / vLLM 部署时需要（建议 Linux/WSL 环境）：
+# ---------------------------------------------------------------------------
+
+# 训练与微调
+torch>=2.2                # CUDA 版本请按官网选择：https://pytorch.org/get-started/locally/
+transformers>=4.44        # 模型加载与 Trainer
+peft>=0.12                # LoRA / QLoRA 适配器
+bitsandbytes>=0.43        # NF4 双量化（Windows 原生支持有限，建议 WSL/Linux）
+accelerate>=0.33          # 分布式与显存管理
+datasets>=2.19            # 可选：外部指令集接入（toneforge/data/general.py 下载骨架）
+safetensors>=0.4          # 权重安全序列化
+
+# 部署（可选）
+auto-gptq>=0.7 ; sys_platform == "linux"   # GPTQ INT4 量化，仅 Linux 提供预编译轮子
+# vllm>=0.5.3 ; sys_platform == "linux"    # vLLM 推理服务，仅 Linux；启用后跑 serve_vllm.py
